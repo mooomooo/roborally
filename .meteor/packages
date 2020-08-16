@@ -31,6 +31,7 @@ underscore
 fourseven:scss
 mdg:meteor-apm-agent
 sanjo:jasmine
+baursn:accounts-guest
 edemaine:accounts-ui-bootstrap-3
 accounts-password
 tracker
